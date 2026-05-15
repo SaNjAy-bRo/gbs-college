@@ -43,8 +43,8 @@ const Header = () => {
         }`}>
           <div className="flex items-center space-x-3">
             {/* Logo */}
-            <div className="w-10 h-10 md:w-12 md:h-12 rounded-full border-2 border-bgs-red flex items-center justify-center bg-white text-bgs-red font-bold text-lg md:text-xl shrink-0 shadow-sm">
-              BGS
+            <div className="w-10 h-10 md:w-12 md:h-12 shrink-0">
+              <img src="/images/logo.png" alt="BGS College Logo" className="w-full h-full object-contain" />
             </div>
             <div className="hidden sm:flex flex-col">
               <span className="text-lg md:text-xl font-bold text-bgs-dark uppercase leading-tight tracking-tight">BGS College</span>

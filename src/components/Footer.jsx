@@ -9,8 +9,8 @@ const Footer = () => {
         {/* Branding Column */}
         <div className="space-y-6">
           <div className="flex items-center space-x-3 bg-white/5 p-4 rounded-xl border border-white/10 w-fit">
-            <div className="w-12 h-12 rounded-full border-2 border-bgs-red flex items-center justify-center bg-white text-bgs-red font-bold text-xl">
-              BGS
+            <div className="w-12 h-12 shrink-0">
+              <img src="/images/logo.png" alt="BGS College Logo" className="w-full h-full object-contain" />
             </div>
             <div className="flex flex-col">
               <span className="text-xl font-bold text-bgs-red uppercase leading-tight tracking-tight">BGS College</span>
