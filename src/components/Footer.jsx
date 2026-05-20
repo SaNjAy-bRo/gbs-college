@@ -44,7 +44,7 @@ const Footer = () => {
               <Phone size={20} className="text-gray-400 shrink-0" />
               <div>
                 <p className="text-gray-500 text-xs mb-1">Monday-Friday: 08am-5pm</p>
-                <p className="font-medium text-gray-200">8050318884</p>
+                <p className="font-medium text-gray-200">07259350707</p>
               </div>
             </div>
             <div className="flex items-center space-x-4">

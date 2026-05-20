@@ -53,11 +53,11 @@ const Header = () => {
           
           <div className="flex items-center">
             <a 
-              href="tel:8050318884" 
+              href="tel:07259350707" 
               className="group flex items-center space-x-2 bg-gradient-to-r from-bgs-red to-rose-600 text-white px-4 md:px-6 py-2.5 md:py-3 rounded-full hover:shadow-lg hover:shadow-rose-500/30 transition-all duration-300 font-bold"
             >
               <PhoneCall size={18} className="fill-white group-hover:animate-pulse" />
-              <span className="text-sm md:text-base tracking-wide">8050318884</span>
+              <span className="text-sm md:text-base tracking-wide">07259350707</span>
             </a>
           </div>
         </header>
